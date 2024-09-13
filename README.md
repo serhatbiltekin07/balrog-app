@@ -1,3 +1,4 @@
+![Ekran görüntüsü 2024-09-13 221616](https://github.com/user-attachments/assets/de4dc9a4-c279-4402-a9e6-db2e8566349c)
 # React + Vite
 
 heroData adında bir veri dizisi içerir. Bu veri, her 3 saniyede bir değişen metin çiftlerini içerir.useState ve useEffect kullanarak, her 3 saniyede bir heroCount durumunu günceller ve veri döngüsünü yönetir.Background, Navbar, ve Hero bileşenlerini içerir.
