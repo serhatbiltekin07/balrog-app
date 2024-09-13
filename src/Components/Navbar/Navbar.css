@@ -1,0 +1,36 @@
+.nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin: 40px 120px;
+  color: #fff;
+}
+.nav-log {
+  font-family: Outfit;
+  font-size: 42px;
+  font-weight: 500;
+  cursor: pointer;
+}
+
+.nav-menu {
+  display: flex;
+  align-items: center;
+  list-style: none;
+  font-size: 24px;
+  gap: 90px;
+  cursor: pointer;
+}
+.nav-menu li:hover {
+  color: rgb(236, 114, 110);
+}
+.nav-contact {
+  background: #fff;
+  border-radius: 50px;
+  padding: 10px 38px;
+  color: #262626;
+  cursor: pointer;
+}
+/* button fare geldiğinde  background-color değişecek ama olmadı bakarsın*/
+.nav-contact li :hover {
+  background-color: rgb(236, 114, 110);
+}
